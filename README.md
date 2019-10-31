@@ -1,0 +1,1 @@
+Program to take in a list of shadow banks, scrape the entirety of their live websites, and save each page text content, as well as linked PDF text content, into individual text files for later processing.
